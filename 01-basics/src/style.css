@@ -1,0 +1,26 @@
+body {
+    background-color: yellow;
+}
+.title {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+
+}
+#logo {
+    height: auto;
+    width: 40vw;
+    align-self: center;
+}
+h1 {
+    align-self: center;
+}
+.squad {
+    padding: 20px;
+}
+h2 {
+    padding: 20px;
+}
+footer {
+    margin: 20px;
+}
