@@ -27,3 +27,12 @@ npx create-start-app <name file>
 ### State
 - state is internal data that can change but cannot be out of the component
 - props is like an external arguement can cannot change
+
+### Component Design
+- Does it have a state?
+- If have state, need a controller
+- If not use a function
+- Use props to configure the component
+
+### Json
+- put in public file

@@ -1,0 +1,18 @@
+[           
+    {
+                "value": "RF",
+                "display": "Raw Fish"
+            },
+            {
+                "value": "S",
+                "display": "Salad"
+            },
+            {
+                "value": "FC",
+                "display": "Fried Cuttlefish"
+            },
+            {
+                "value": "P",
+                "display": "Peanuts"
+            }
+]
