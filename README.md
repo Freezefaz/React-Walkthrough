@@ -3,15 +3,23 @@
 - Don't touch node and public folder
 - Put new files in src folder
 
+## Steps
+1. Get data first
+2. Know what data is for and how it looks
+3. Software architecture 
+
 ### Start
 
 - Make sure open terminal of basic folder
 - npm start or yarn start
+- yarn add axios - to install axios
+- 
 
 ### To create new app
 
 - at the main terminal
-npx create-start-app <name file>
+- npx create-start-app <name file>
+- npm install react-router-dom -> to install router
 
 ### Component
 1. Must be a function
@@ -36,3 +44,10 @@ npx create-start-app <name file>
 
 ### Json
 - put in public file
+
+### When to use class or function
+#### For Legacy React
+- Use class if need state
+- Use class if have life cycle
+#### Cutting edge React
+- Function can have state using hook
